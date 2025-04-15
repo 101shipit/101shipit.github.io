@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating AI: From Development Workflows to Business Transformation
+title: "Integrating AI: From Development Workflows to Business Transformation"
 date: "2025-04-16"
 author: "David Corbett"
 category: "AI Development Workflows"
