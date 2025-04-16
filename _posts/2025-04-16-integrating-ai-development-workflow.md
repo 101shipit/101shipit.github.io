@@ -4,7 +4,6 @@ title: "Integrating AI: From Development Workflows to Business Transformation"
 date: "2025-04-16"
 author: "David Corbett"
 category: "AI Development Workflows"
-slug: "integrating-ai-development-workflow"
 ---
 
 ## **0\. Notes: Written with the help of AI
