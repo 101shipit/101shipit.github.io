@@ -6,12 +6,12 @@ author: "David Corbett"
 category: "AI Development Workflows"
 ---
 
-## **0\. Notes: Written with the help of AI
-I've taken a whole lot of my own thoughts and then used Gemini 2.5 Pro Deep Research to help synthesize this blog post
-
 ## **1\. Introduction: The Imperative for Fundamental AI Integration**
 
 Artificial Intelligence (AI) presents a transformative opportunity, poised to reshape not only software development practices but also fundamental business operations. However, realizing the full potential of AI requires moving beyond superficial applications. Simply "sprinkling AI on top" of existing processes yields limited results \[User Notes\]. True value emerges when AI integration drives fundamental changes in how organizations operate, innovate, and deliver value.1 This involves cultivating an AI-ready culture, strategically adopting and mastering AI tools within development workflows, understanding the nuances of effective AI interaction, leveraging a diverse ecosystem of AI products, navigating emerging technologies like Model Context Protocol (MCP) cautiously, and prioritizing internal capability building. Furthermore, it necessitates identifying and nurturing the evolving skill sets required for developers and the broader workforce in the age of AI. This report analyzes these critical dimensions, offering a framework for discussing strategic AI adoption within both development contexts and wider business operations, drawing upon current practices, tool evaluations, and emerging trends.
+
+### Notes: Written with the help of AI
+I've taken a whole lot of my own thoughts and then used Gemini 2.5 Pro Deep Research to help synthesize this blog post
 
 ## **2\. Beyond Superficial AI: Cultivating a Culture of Innovation**
 
